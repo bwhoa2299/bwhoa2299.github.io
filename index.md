@@ -8,5 +8,10 @@ Hello! My name is Ben Ouaou (pronounced "whoa") and I am a senior undergraduate 
 * LinkedIn
 * [GitHub](https://github.com/bwhoa2299)
 
-#### Map of Baltimore Sports Stadiums
+#### Projects
+
+### Map of Baltimore Sports Stadiums
 <embed type="text/html" src="bmore.html" width="600" height="600">
+
+### Precipitation Trends in Naples, FL
+![Naples, FL Annual Precipitation](naples_precip.png)
