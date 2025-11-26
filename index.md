@@ -27,3 +27,4 @@ Matthew J. Menne, Imke Durre, Russell S. Vose, Byron E. Gleason, and Tamara G. H
 
 ### [2023 Migration Patterns of the Cattle Egret (Bubulcus ibis)](egret-migration2.html)
 
+### [An Vegetation Health Analysis of San Ildefonso Pueblo, NM](portfolio-post.ipynb)
