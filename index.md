@@ -29,4 +29,4 @@ Matthew J. Menne, Imke Durre, Russell S. Vose, Byron E. Gleason, and Tamara G. H
 
 ### [An Vegetation Health Analysis of San Ildefonso Pueblo, NM](portfolio-post-2.html)
 
-### [Konza Prarie: A Correlative Precipitation and Vegetation Health Analysis (Data Science Bootcamp Final Project)]()
+### [Konza Prarie: A Correlative Precipitation and Vegetation Health Analysis (Data Science Bootcamp Final Project)](Konza-Final-Project.html)
